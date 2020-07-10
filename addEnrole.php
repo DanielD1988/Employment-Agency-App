@@ -1,7 +1,6 @@
 <?php
 /*
 	Daniel Dinelli
-	C00242741
 	Adding the enrolment form details to the database, removing one place in places remaining field in training and adding one to the number of courses field in client
 */
 include 'connect.php';
