@@ -1,7 +1,6 @@
 <?php
 /*
 	Daniel Dinelli
-	C00242741
 	Adding the training form data to database
 */
 include 'connect.php';
