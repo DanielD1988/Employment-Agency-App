@@ -1,6 +1,5 @@
 <!-- 
 	Daniel Dinelli
-	C00242741
 	A from to select a training course for deletion that is finished
 -->
 <!DOCTYPE html>
