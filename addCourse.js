@@ -1,6 +1,5 @@
 /*
 	Daniel Dinelli
-	C00242741
 	Functions to test start date, start time and end time of a course
 */
 function DateCheck(input)
